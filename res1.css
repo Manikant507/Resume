@@ -1,0 +1,80 @@
+div {
+    width: 750px;
+    height: 1150px;
+    border: 1px solid black;
+    margin-left: 10px;
+    padding: 0px 40px 0px 40px;
+    cursor: pointer;
+    border-radius: 10px;
+
+
+}
+
+.icon {
+    width: 750px;
+    height: 87px;
+
+    border: none;
+
+    display: flex;
+    gap: 70px;
+    mix-blend-mode: difference;
+
+
+
+}
+
+
+
+h4:hover {
+    transform: scale(1.0);
+}
+
+
+
+h1 {
+    text-align: center;
+    color: rgb(23, 94, 226);
+    font-size: 40px;
+}
+
+.data {
+    text-align: center;
+
+    margin-top: -20px;
+
+}
+
+h3 {
+    color: rgb(61, 119, 207);
+}
+
+.cource {
+    margin-left: 60px;
+}
+
+.skill {
+    margin-left: 136px;
+}
+
+.cer {
+    margin-left: 152px;
+}
+
+.pro {
+    margin-left: 108px;
+}
+
+i {
+    font-size: 40px;
+    color: blue;
+    justify-items: row;
+    justify-items: center;
+    margin: 17px 0px 0px 0px;
+    gap: 30px;
+}
+
+.icon,
+a:hover {
+    transform: scale(1.1);
+}
